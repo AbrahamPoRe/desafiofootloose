@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "desafio-footloose",
   "scripts": {
     "test": "vtex-test-tools test",
     "lint": "eslint --ext js,jsx,ts,tsx ."
